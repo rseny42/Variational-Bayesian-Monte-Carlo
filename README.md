@@ -12,7 +12,7 @@ Goals: \
 
 
 Team members: \
-Arsenii Raiko, Semyon Gluskov \
+Arsenii Raiko, Semyon Gluskov
 
 A link to the proposal:
 https://drive.google.com/file/d/1GWEfrytlSj0lkYKYnjUDc1TJnfmR_6m1/view?usp=sharing
